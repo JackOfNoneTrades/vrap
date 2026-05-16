@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Fetches a CurseForge API token for Vintage Resourcify from a configurable endpoint.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/JackOfNoneTrades/vrap",
+		"updateUrl": "",
+		"authorList": ["jack"],
+		"credits": "GT:NH ExampleMod",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": ["resourcify"],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}

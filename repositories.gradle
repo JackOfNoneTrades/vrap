@@ -1,0 +1,10 @@
+repositories {
+    maven {
+        name = "Fent Maven"
+        url = "https://maven.fentanylsolutions.org/releases"
+    }
+    maven {
+        name = "DeDiamondPro Maven"
+        url = "https://maven.dediamondpro.dev/releases/"
+    }
+}
