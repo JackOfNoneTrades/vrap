@@ -8,7 +8,7 @@ public final class VrapConfig {
 
     private static final String CATEGORY_GENERAL = "general";
     private static final String KEY_TOKEN_URL = "curseForgeTokenUrl";
-    private static final String DEFAULT_TOKEN_URL = "example.com";
+    private static final String DEFAULT_TOKEN_URL = "https://cf.polymc.org/api";
 
     private static Configuration configuration;
     private static String curseForgeTokenUrl = DEFAULT_TOKEN_URL;

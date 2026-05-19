@@ -1,3 +1,7 @@
 dependencies {
-    compileOnly("dev.dediamondpro.resourcify:VintageResourcify:7a65fa7-snapshot")
+    devOnlyNonPublishable("dev.dediamondpro.resourcify:VintageResourcify:7a65fa7-snapshot")
+
+    runtimeOnlyNonPublishable("com.falsepattern:forgelin-mc1.7.10:2.4.1-2.3.10")
+    runtimeOnlyNonPublishable("com.github.GTNewHorizons:ModularUI2:2.3.63-1.7.10:dev")
+    runtimeOnlyNonPublishable("org.fentanylsolutions.fentlib:FentLib:087af36-snapshot:dev")
 }
