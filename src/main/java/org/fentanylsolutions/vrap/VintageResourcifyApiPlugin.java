@@ -13,6 +13,9 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
     acceptedMinecraftVersions = "[1.7.10]",
     dependencies = "required-after:resourcify;",
     guiFactory = "org.fentanylsolutions.vrap.gui.VrapGuiFactory",
+    customProperties = { @Mod.CustomProperty(k = "license", v = "WTFPL"),
+        @Mod.CustomProperty(k = "issueTrackerUrl", v = "https://github.com/JackOfNoneTrades/vrap/issues"),
+        @Mod.CustomProperty(k = "iconFile", v = "assets/vrap/logo.png") },
     acceptableRemoteVersions = "*")
 public class VintageResourcifyApiPlugin {
 

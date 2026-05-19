@@ -4,4 +4,5 @@ dependencies {
     runtimeOnlyNonPublishable("com.falsepattern:forgelin-mc1.7.10:2.4.1-2.3.10")
     runtimeOnlyNonPublishable("com.github.GTNewHorizons:ModularUI2:2.3.63-1.7.10:dev")
     runtimeOnlyNonPublishable("org.fentanylsolutions.fentlib:FentLib:087af36-snapshot:dev")
+    runtimeOnlyNonPublishable(rfg.deobf("curse.maven:catalogue-vintage-1465746:7695645")) // 1.0.2-1.7.10
 }

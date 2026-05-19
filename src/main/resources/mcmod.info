@@ -10,7 +10,7 @@
 		"updateUrl": "",
 		"authorList": ["jack"],
 		"credits": "GT:NH ExampleMod",
-		"logoFile": "",
+		"logoFile": "assets/${modId}/logo.png",
 		"screenshots": [],
 		"parent": "",
 		"requiredMods": ["resourcify"],
