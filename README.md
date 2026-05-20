@@ -7,7 +7,7 @@ Uses PolyMC proxy by default.
 
 [![hub](images/badges/github.png)](https://github.com/JackOfNoneTrades/vrap/releases)
 [![67](images/badges/67.png)](https://67.fentanylsolutions.org/mod/vrap)
-[![maven](images/badges/maven.png)](#)
+[![maven](images/badges/maven.png)](https://maven.fentanylsolutions.org/#/releases/org/fentanylsolutions/vrap/vrap)
 ![forge](images/badges/forge.png)
 [![cord](images/badges/cord.png)](https://discord.gg/xAWCqGrguG)
 
