@@ -49,7 +49,7 @@ public final class VrapConfig {
                 .set(next);
             configuration.save();
         }
-        if (changed) {
+        if (changed && VintageResourcifyApiPlugin.isResourcifyLoaded()) {
             CurseTokenProvider.fetchAndApplyAsync("config changed");
         }
     }

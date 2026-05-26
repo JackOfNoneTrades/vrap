@@ -13,7 +13,7 @@
 		"logoFile": "assets/${modId}/logo.png",
 		"screenshots": [],
 		"parent": "",
-		"requiredMods": ["resourcify"],
+		"requiredMods": [],
 		"dependencies": [],
 		"dependants": [],
 		"useDependencyInformation": false
